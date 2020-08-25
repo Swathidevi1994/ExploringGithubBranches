@@ -3,3 +3,6 @@ This is my first Github file in the master branch
 What you see her is newly added. 
 
 to push from local to github 
+
+
+Change is pushed to github repo 
