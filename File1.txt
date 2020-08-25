@@ -1,4 +1,5 @@
 This is my first Github file in the master branch 
+<<<<<<< HEAD
 
 What you see her is newly added. 
 
@@ -6,3 +7,5 @@ to push from local to github
 
 
 Change is pushed to github repo 
+=======
+>>>>>>> parent of 3c409db... add extra line
